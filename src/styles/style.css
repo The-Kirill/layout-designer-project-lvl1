@@ -241,6 +241,7 @@ header {
 }
 
 .card__title {
+  margin-bottom: 16px;
   color: var(--main);
 }
 
