@@ -168,6 +168,10 @@ header {
   text-align: center;
 }
 
+.pre-video__title {
+  margin-bottom: 30px;
+}
+
 .pre-video__text__span {
   color: var(--main);
 }
