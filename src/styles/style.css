@@ -155,7 +155,7 @@ header {
 
 /* SECTION-1 */
 .pre-video {
-  margin-bottom: -100px;
+  margin-bottom: -200px;
 
   text-align: center;
 
@@ -198,6 +198,8 @@ header {
 
 .navigation-cards {
   position: relative;
+
+  padding-top: 100px;
 }
 
 .cards {
