@@ -176,6 +176,13 @@ header {
   color: var(--main);
 }
 
+.video {
+  width: 919px;
+  height: 569px;
+
+  border-width: 0;
+}
+
 /* SECTION-2 */
 .background-dark::before {
   position: absolute;
